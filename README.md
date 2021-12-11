@@ -76,9 +76,9 @@ If I have good suggestions for changes to improve my web development or this pro
 ### Useful resources
 
 - [Video of solution to the challenge](https://youtu.be/uaM5F8O_VI8) - I didn't watch entire video, I just wanted to know I was on track. There was one instance in designing the layout for the purchase area that was similar to what I was already thinking might work so seeing some else do similar was reinsuring.
--[CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/?fbclid=IwAR3michooiyBKhjow5Z8RJhEXsTXY8PM7Y1d1gmYHSRZWrgSs7_bXL-khws) - This flexbox guide really helped for reference in terms of using flexbox for layout.
--[CSS Units Best Practices](https://gist.github.com/basham/2175a16ab7c60ce8e001) - I kept obsessing over what units I should be using for everything and this article was what I stuck most too.
--[Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css) - I worry about how to organize my CSS in some standardized way. It is a developing area of practice, however this article has the standards I am trying to adhere to.
+- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/?fbclid=IwAR3michooiyBKhjow5Z8RJhEXsTXY8PM7Y1d1gmYHSRZWrgSs7_bXL-khws) - This flexbox guide really helped for reference in terms of using flexbox for layout.
+- [CSS Units Best Practices](https://gist.github.com/basham/2175a16ab7c60ce8e001) - I kept obsessing over what units I should be using for everything and this article was what I stuck most too.
+- [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css) - I worry about how to organize my CSS in some standardized way. It is a developing area of practice, however this article has the standards I am trying to adhere to.
 
 All of following were articles on MDN that I spent a lot of time reviewing since I was not comfortable in my understanding of any of these areas.
 - [background](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
