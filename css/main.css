@@ -1,0 +1,180 @@
+/* Front-end Mentor attribution */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* User style */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 1em;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: hsl(225, 100%, 94%) url('../images/pattern-background-mobile.svg') top / contain no-repeat;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 500;
+}
+
+main {
+  width: 90%;
+  max-width: 451px;
+  margin: 4.375em;
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.hero {
+  margin: 0;
+}
+
+.hero img {
+  width: 100%;
+  display: block;
+}
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 1.6em 0;
+}
+
+
+.summary h1 {
+  margin-bottom: 1.1em;
+  color: hsl(223, 47%, 23%);
+  font-size: 1.35rem;
+  font-weight: 900;
+  text-align: center;
+  line-height: 1;
+}
+
+.summary p {
+  width: 81.25%;
+  margin: 0;
+  margin-bottom: 1.6em;
+  color: hsl(224, 23%, 55%);
+  text-align: center;
+  line-height: 1.5;
+}
+
+.purchase {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: .8em;
+  padding: 1em;
+  margin-bottom: 1.6em;
+}
+
+.purchase>div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.purchase figure {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+
+.plan-cost {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0 1em;
+}
+
+.plan-cost h2 {
+  margin: 0;
+  font-size: .875em;
+  font-weight: 700;
+}
+
+.plan-cost p {
+  margin: 0;
+  padding: 0;
+  font-size: .875rem;
+
+}
+
+.change {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.change a {
+  font-size: .8rem;
+  font-weight: 700;
+}
+
+.change a:hover {
+  text-decoration: none;
+}
+
+.buttons {
+  width: 85%;
+  margin-bottom: .85rem;
+  text-align: center;
+}
+
+.proceed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 1.6em;
+  background-color: hsl(245, 75%, 52%);
+  box-shadow: 0 6px 20px -2px hsl(223, 47%, 23%);
+  border-radius: .8em;
+  border: none;
+  color: white;
+  font-size: .95rem;
+  font-weight: 700;
+}
+
+.proceed:hover {
+  background-color: hsl(224, 23%, 55%);
+}
+
+.cancel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border: none;
+  border-radius: .8em;
+  background-color: white;
+  color: hsl(224, 23%, 55%);
+  font-size: .95rem;
+  font-weight: 700;
+}
+
+.cancel:hover {
+  color: hsl(223, 47%, 23%);
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 768px) {
+  body {
+    background-image: url('../images/pattern-background-desktop.svg');
+    background-repeat: repeat-x;
+    background-size: unset;
+  }
+}
