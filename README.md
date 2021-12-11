@@ -32,8 +32,8 @@ Below is screenshot taken with Mozilla Firefox of full screen.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/intherightdirection/order-summary-component)
+- Live Site URL: [On Github Pages](https://intherightdirection.github.io/order-summary-component/)
 
 ## My process
 
